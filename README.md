@@ -1,4 +1,4 @@
-# Wolfenstein
+# Cub3d
 
 make to create the executable
 
